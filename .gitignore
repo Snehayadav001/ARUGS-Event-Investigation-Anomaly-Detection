@@ -1,0 +1,8 @@
+# Compiled Java output
+out/
+
+# Working files used to generate/inspect deliverables
+work/
+
+# Runtime data; run `seed` to create sample events
+data/
